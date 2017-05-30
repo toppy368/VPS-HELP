@@ -4,9 +4,9 @@
 
 ## 1. 找到 Terminal 終端機
 
-2. 開啟 Terminal 終端機
+## 2. 開啟 Terminal 終端機
 
-3. 執行 ssh-keygen 進入 ssh key 安裝流程
+## 3. 執行 ssh-keygen 進入 ssh key 安裝流程
 
 4. 建立 .ssh 目錄
 
