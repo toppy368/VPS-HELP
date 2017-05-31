@@ -15,6 +15,8 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 `Generating public/private rsa key pair.`
 
 ## 4. 建立 .ssh 目錄
+建立ssh key的路徑，按下Enter之後，檔案會儲存在此路徑當中
+`Enter file in which to save the key (/home/[Your ID]/.ssh/id_rsa):
 
 ## 5. 輸入密碼
 
