@@ -8,6 +8,7 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 ![Find the terminal](https://github.com/toppy368/VPS-HELP-for-ubuntu/blob/master/images/HowToSetUpandUseSSHKEY/FindtheTerminal.png)
 
 ## 2. 開啟 Terminal 終端機
+![Open the Terminal](https://github.com/toppy368/VPS-HELP-for-ubuntu/blob/master/images/HowToSetUpandUseSSHKEY/OpentheTerminal.png)
 
 ## 3. 執行 ssh-keygen 進入 ssh key 安裝流程
 請輸入這個指令
