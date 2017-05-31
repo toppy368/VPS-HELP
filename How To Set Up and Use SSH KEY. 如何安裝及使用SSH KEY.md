@@ -27,5 +27,23 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 本文件為了示範，輸入的passphrase字串為`TESTWORD`，但原則上建議設定強一點且不與網際網路服務共用的密碼以策安全
 
 ## 6. 顯示產生金鑰成功等相關訊息
+出現以下訊息，表示ssh key檔案產生好了
+
+
+    The key fingerprint is:
+    SHA256:2q+2P+7nW6pVUO0i5TLUIiI3KssukM41b0dtWYmxD6E toppy368@ubuntu
+    The key's randomart image is:
+    +---[RSA 2048]----+
+    |             ... |
+    |      . +o. o.o .|
+    |       +.o=oo+ . |
+    |    . .E + o+.o .|
+    | . . o  S =  +.. |
+    |o  oo  + + . .   |
+    |o...o o o   . .  |
+    | o. .o ......o   |
+    |   .. ..o**=+.   |
+    +----[SHA256]-----+
+
 
 ## 7. 找到公鑰/私鑰檔案
