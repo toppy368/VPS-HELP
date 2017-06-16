@@ -46,11 +46,13 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 	|*.+o  .          |
 	+----[SHA256]-----+
 
-## 7. 找到.SSH 資料夾
+## 7. 找到.SSH 資料夾  
 Ubuntu的SSH KEY會放在` /home/[你的ID]/.ssh `資料夾中，以下步驟將展示此資料夾的位置，確認金鑰正常產生之後可以複製備份起來，若日後遺失可以找得回來  
 
 ![Find the ssh folder 1](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_1.png)
 
 ![Find_the_ssh_folder_2](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_2.png)
 
-按下`Ctrl + h`可以打開隱藏的資料夾，這樣就能找到 .ssh 資料夾
+按下`Ctrl + h`可以打開隱藏的資料夾，這樣就能找到 `.ssh` 資料夾
+
+## 8. 公鑰/私鑰檔案  
