@@ -52,3 +52,5 @@ Ubuntu的SSH KEY會放在` /home/[你的ID]/.ssh `資料夾中，以下步驟將
 ![Find the ssh folder 1](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_1.png)
 
 ![Find_the_ssh_folder_2](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_2.png)
+
+按下`Ctrl + h`可以打開隱藏的資料夾，這樣就能找到 .ssh 資料夾
