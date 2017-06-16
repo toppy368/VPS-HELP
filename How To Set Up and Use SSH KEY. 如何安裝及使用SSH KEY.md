@@ -49,4 +49,4 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 ## 7. 找到.SSH 資料夾
 ![Find the ssh folder 1](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_1.png)
 
-![Find_the_ssh_folder_2](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_2.pnp)
+![Find_the_ssh_folder_2](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_2.png)
