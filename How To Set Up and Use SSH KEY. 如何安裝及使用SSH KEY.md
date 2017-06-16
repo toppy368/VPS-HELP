@@ -31,22 +31,20 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 ## 6. 顯示產生金鑰成功等相關訊息
 出現以下訊息，表示ssh key檔案產生好了
 
-
-    The key fingerprint is:
-    SHA256:2q+2P+7nW6pVUO0i5TLUIiI3KssukM41b0dtWYmxD6E toppy368@ubuntu
-    The key's randomart image is:
-    +---[RSA 2048]----+
-    |             ... |
-    |      . +o. o.o .|
-    |       +.o=oo+ . |
-    |    . .E + o+.o .|
-    | . . o  S =  +.. |
-    |o  oo  + + . .   |
-    |o...o o o   . .  |
-    | o. .o ......o   |
-    |   .. ..o**=+.   |
-    +----[SHA256]-----+
-
+	The key fingerprint is:
+	SHA256:Yj1Y/qgVBv82tDAyrKbLo5oZQNhGY6NTAkIKkzrEzbQ toppy368@ubuntu
+	The key's randomart image is:
+	+---[RSA 2048]----+
+	|XoX.             |
+	|*@ =.            |
+	|B.oE  . .        |
+	|+o   . B         |
+	|..    B S .      |
+	|.    o = X .     |
+	|.   o   o *      |
+	| =.o   o . .     |
+	|*.+o  .          |
+	+----[SHA256]-----+
 
 ## 7. 找到公鑰/私鑰檔案
 ![FindtheSSHFolder_1](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_1.png)
