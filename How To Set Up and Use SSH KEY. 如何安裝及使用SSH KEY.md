@@ -49,3 +49,6 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 
 
 ## 7. 找到公鑰/私鑰檔案
+![FindtheSSHFolder_1](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_1.png)
+
+![Open the Terminal](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/Find_the_ssh_folder_2.pnp)
