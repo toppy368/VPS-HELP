@@ -61,3 +61,10 @@ Ubuntu的SSH KEY會放在` /home/[你的ID]/.ssh `資料夾中，以下步驟將
 
 
 ## 在目的地端電腦 (伺服器/VPS/NAS/IoT開發板等) 加入你的 SSH KEY
+
+### 9. 將 pub key 加入目的地端電腦  
+
+### 10. 以 SSH 登入目的地端電腦
+	ssh root@[目的地端電腦 IP/Your host IP.]  
+
+### 11. 修改設定：取消密碼驗證，只認金鑰  
