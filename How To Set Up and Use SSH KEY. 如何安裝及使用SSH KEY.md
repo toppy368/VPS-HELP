@@ -4,7 +4,7 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 
 本篇將以Ubunut Disktop 16.04 版做示範，若您採用其他版本的Linux發行版，可能部分指令與路徑會有所不同，例如安裝/管理套件的 apt-get 指令要改用 yum ，或者是資料夾路徑會不同，若有不同之處我會在內文提醒，大家可以知道那些指令會不同，謝謝 !
 
-
+## 在來源電腦(客戶端) 產生SSH KEY
 
 ### 1. 找到 Terminal 終端機
 ![Find the terminal](https://github.com/toppy368/VPS-HELP/blob/master/images/HowToSetUpandUseSSHKEY/FindtheTerminal.png)
@@ -58,3 +58,6 @@ Ubuntu的SSH KEY會放在` /home/[你的ID]/.ssh `資料夾中，以下步驟將
 按下`Ctrl + h`可以打開隱藏的資料夾，這樣就能找到 `.ssh` 資料夾
 
 ### 8. 公鑰/私鑰檔案  
+
+
+## 在目的地端電腦 (伺服器/VPS/NAS/IoT開發板等) 加入你的 SSH KEY
