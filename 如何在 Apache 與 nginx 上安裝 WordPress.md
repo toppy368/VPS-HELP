@@ -6,8 +6,8 @@ WordPress 是一個採用 PHP 及 MySQL 為平台的部落格架站軟體，使�
 
 ## 安裝前的事前準備
 根據 [WordPress.org](https://wordpress.org) 官網提供的 [系統需求](https://wordpress.org/about/requirements/)，安裝 WordPress 建議的環境如下：  
-	-PHP version 7 or greater  
-	-MySQL version 5.6 or greater OR MariaDB version 10.0 or greater  
-	-HTTPS support  
+> PHP version 7 or greater  
+> MySQL version 5.6 or greater OR MariaDB version 10.0 or greater  
+> HTTPS support  
 
 本文件假設大家都裝了 Apache 或 nginx ，也假設大家都裝好了支援 WordPress 的 SQL/MariaDB 與 PHP 引擎，因此將不對環境安裝做解說，若讀者沒有安裝以上環境，請搜尋相關的安裝方式，謝謝 ! 
