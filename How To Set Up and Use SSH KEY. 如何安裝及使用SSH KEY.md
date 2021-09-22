@@ -22,6 +22,8 @@ SSH 可以讓使用者遠端連線到別台主機進行各種操作，您可以�
 建立ssh key的路徑，按下Enter之後，檔案會儲存在此路徑當中  
 `Enter file in which to save the key (/home/[Your ID]/.ssh/id_rsa):`
 
+Tips：若想新增不同的 ssh 檔 (例如一組 SSH KEY 給主機、一組給 Git )，可以根據以上路徑重新命名，例如在這一行直接輸入 `id_git_ssh` ，可直接產生此名稱的金鑰檔到根目錄，若想維持原有路徑另存新檔則建議輸入 `/home/[Your ID]/.ssh/id_git_ssh`
+
 ### 5. 輸入密碼
 這裡會提示大家輸入 passphrase ，可以視為密碼，檔案會根據你輸入的內容進行加密，最短5個英文字，但是沒有長度限制與特殊符號限制，你可以直接使用強密碼原則即可
 
